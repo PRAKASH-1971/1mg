@@ -3,7 +3,13 @@ Hello !
 
 When you open your browser , you can see the clone of Tata 1mg ecommerce website with exact same features 
 
-So, This time as a part of Curriculum’s module 4 project .I got a task to develop clone of this amazing website .Tata 1mg is India's leading consumer health platform. It aspires to be the trusted health partner for all Indians and its mission is to make healthcare accessible, understandable and affordable for a billion Indians. It enables consumers to learn more about their medicines and also find more cost-effective substitutes
+So, This time as a part of Curriculum’s module 4 project .I got a task to develop clone of this amazing website .
+
+## About this project: 🙌
+Tata 1mg is India's leading consumer health platform. It aspires to be the trusted health partner for all Indians and its mission is to make healthcare accessible, understandable and affordable for a billion Indians. It enables consumers to learn more about their medicines and also find more cost-effective substitutes
+
+----
+
 
 
 Moving ahead lets talk about what skills i required to build the website like this,  
