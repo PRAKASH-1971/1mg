@@ -16,6 +16,13 @@ I have used -
   <li>Figma</li>
 </ul>
 
+**deploy link**
+
+Project Deploy Link : "(https://brave-hodgkin-05f1da.netlify.app/)"
+
+
+<hr/>
+
 Some snippets of my website-
 
 **Landing Page**
