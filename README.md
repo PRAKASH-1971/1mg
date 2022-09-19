@@ -24,7 +24,7 @@ I have used -
 
 **deploy link**
 
-Project Deploy Link : "(https://brave-hodgkin-05f1da.netlify.app/)"
+Project Deploy Link : # https://brave-hodgkin-05f1da.netlify.app/
 
 
 <hr/>
